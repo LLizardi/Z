@@ -12,10 +12,10 @@ print(datetime.datetime.now().time())
 
 
 
-ckey = "iU3KDtcVpguFNkRa5sQt0psI3"
-csecret = "xqxLFpOBIOBnpwxr05Bic3GzNnqGyHWk21xbkuSJAddn4F5Edc"
-atoken = "850491506767126528-HW2ctwOWxtXOdsxlWW2g4uCSs1bZlVn"
-asecret = "YgPMvKZvZXknbyjGYtbZRdKq71vQksWycyzMah6EZnm06"
+ckey = 
+csecret = 
+atoken = 
+asecret = 
 
 
 
